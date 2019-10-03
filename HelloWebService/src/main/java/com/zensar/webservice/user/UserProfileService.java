@@ -17,14 +17,4 @@ public class UserProfileService
 		return Response.status(200).entity("<p>New User record is Added</br>Name"+name+"</br> Age:"+age+"<br>Gender: "+gender+"</p>").build();
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
